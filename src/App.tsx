@@ -303,9 +303,6 @@ function OrderForm() {
         <div className="order-form-copy">
           <span className="order-form-badge">ক্যাশ অন ডেলিভারি</span>
           <h2 className="section-title">অর্ডার ফর্ম</h2>
-          <p className="order-form-text">
-            আপনার তথ্য দিন। অর্ডার সাবমিট হলেই বিস্তারিত ইমেইলে চলে যাবে।
-          </p>
           <div className="order-summary">
             <div>
               <span>প্যাকেজ</span>
@@ -405,10 +402,6 @@ function OrderForm() {
           <button className="btn btn-order form-submit" type="submit">
             অর্ডার সাবমিট করুন
           </button>
-
-          <p className="form-message form-message-info">
-            সাবমিট করার পর Web3Forms অর্ডারটি সরাসরি আপনার ইমেইলে পাঠাবে।
-          </p>
         </form>
       </div>
     </section>

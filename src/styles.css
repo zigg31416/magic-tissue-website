@@ -716,11 +716,6 @@ main {
   color: #0f172a;
 }
 
-.order-form-text {
-  margin: 0 0 18px;
-  color: var(--color-muted);
-}
-
 .order-summary {
   display: grid;
   gap: 10px;
@@ -833,11 +828,6 @@ main {
 .form-message-error {
   color: #991b1b;
   background: var(--color-red-light);
-}
-
-.form-message-info {
-  color: #1e3a8a;
-  background: var(--color-blue-light);
 }
 
 /* ============ Services ============ */
